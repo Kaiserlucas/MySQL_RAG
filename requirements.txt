@@ -1,0 +1,8 @@
+mysql-connector-python
+langchain_core
+dotenv
+langchain_openai
+langchain_groq
+groq
+langgraph
+sqlparse
